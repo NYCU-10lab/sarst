@@ -1,0 +1,49 @@
+SARST2
+Structural similarity search Aided by Ramachandran Sequential Transformation,
+version 2
+
+© 2023 Wei-Cheng Lo, Arieh Warshel, Chia-Hua Lo, et al.
+Institute of Bioinformatics and Systems Biology,
+National Yang Ming Chiao Tung University, Hsinchu, Taiwan
+
+
+============================
+ License (Executable Files)
+============================
+
+The SARST2 executable binaries are licensed under the
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+(CC BY-NC-ND 4.0) license.
+
+You are free to use and share the binaries for non-commercial purposes,
+provided that:
+
+* proper attribution is given (e.g., citing the associated publication),
+
+* the binaries are not modified, reverse-engineered, or redistributed
+  in altered form.
+
+For commercial use or redistribution, please contact the corresponding author.
+
+
+==============================
+  Disclaimer
+==============================
+
+The SARST2 algorithm and all accompanying materials are provided "as is",
+without any warranties, express or implied. This includes, but is
+not limited to, warranties of accuracy, completeness, reliability, fitness
+for a particular purpose, or non-infringement.
+
+The developers of SARST2 and their affiliated institutions shall not be held
+liable for any direct, indirect, incidental, special, or consequential
+damages—including but not limited to loss of data, business interruption,
+or lost profits—arising from the use of SARST2 or any of its components.
+
+By using SARST2, you acknowledge and agree that:
+
+*you are solely responsible for any consequences resulting from its use;
+
+*the authors and affiliated institutions disclaim all liability for such use.
+
+
