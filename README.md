@@ -1,8 +1,8 @@
-# SARST2 v2.0.25
+# SARST2 v2.0.26
  Structural similarity search Aided by Ramachandran Sequential Transformation, version 2
 
 <p align="center">
-  <img width="512" src="https://github.com/NYCU-10lab/sarst/blob/main/Manuals/sarst2-logo.png"><br>
+  <img width="512" src="https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-logo.png"><br>
   <img width="300" src="https://github.com/user-attachments/assets/5e1fac98-fa11-4dff-8408-4a863d50d0ac">
 </p>
 
@@ -13,19 +13,19 @@ This software is published along with the following paper and will be frequently
 
 <table>
   <tr>
-    <td>Title</td>
+    <td><b>Title</b></td>
     <td>SARST2, a high-throughput protein structure alignment algorithm for searching massive databases</td>
   </tr>
   <tr>
-    <td>Authors</td>
+    <td><b>Authors</b></td>
     <td>Wei-Cheng Lo*, Arieh Warshel, Chia-Hua Lo, Chia Yee Choke, Yan-Jie Li, Shih-Chung Yen, Jyun-Yi Yang and Shih-Wen Weng</td>
   </tr>
   <tr>
-    <td>Institute</td>
+    <td><b>Institute</b></td>
     <td>Institute of Bioinformatics and Systems Biology, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, Republic of China</td>
   </tr>
 </table>
-*Corresponding author<br><br>
+*Corresponding author (WadeLo@nycu.edu.tw)<br><br>
 Download URLs:<br>
 https://github.com/NYCU-10lab/sarst<br>
 https://10lab.ceb.nycu.edu.tw/sarst2
@@ -41,11 +41,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>Linux, x86_64</td>
           <td nowrap>
-            <a target="_blank" href="https://github.com/user-attachments/files/20869820/SARST2-v2.0.26-Linux.x86_64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.x86_64.tar.gz">
               .tar.gz 
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://github.com/user-attachments/files/20869837/SARST2-v2.0.26-Linux.x86_64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.x86_64.zip">
               .zip 
             </a>
           </td>
@@ -53,11 +53,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>Linux, arm64</td>
           <td nowrap>
-            <a target="_blank" href="https://github.com/user-attachments/files/20869843/SARST2-v2.0.26-Linux.arm64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.arm64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://github.com/user-attachments/files/20869856/SARST2-v2.0.26-Linux.arm64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.arm64.zip">
               .zip
             </a>
           </td>
@@ -65,11 +65,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>macOS, x86_64</td>
           <td nowrap>
-            <a target="_blank" href="https://github.com/user-attachments/files/20870179/SARST2-v2.0.26-macOS.x86_64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.x86_64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://github.com/user-attachments/files/20870190/SARST2-v2.0.26-macOS.x86_64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.x86_64.zip"">
               .zip
             </a>
           </td>
@@ -77,11 +77,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>macOS, arm64</td>
           <td nowrap>
-            <a target="_blank" href="https://github.com/user-attachments/files/20870195/SARST2-v2.0.26-macOS.arm64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.arm64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://github.com/user-attachments/files/20870198/SARST2-v2.0.26-macOS.arm64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.arm64.zip">
               .zip
             </a>
           </td>
@@ -89,11 +89,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td nowrap>Windows 10+, x86_64</td>
           <td nowrap>
-            <a target="_blank" href="https://github.com/user-attachments/files/20869906/SARST2-v2.0.26-Win10%2B.x86_64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.x86_64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://github.com/user-attachments/files/20869912/SARST2-v2.0.26-Win10%2B.x86_64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.x86_64.zip">
               .zip
             </a>
           </td>
@@ -101,11 +101,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>Windows 10+, arm64</td>
           <td nowrap>
-            <a target="_blank" href="https://github.com/user-attachments/files/20869916/SARST2-v2.0.26-Win10%2B.arm64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.arm64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://github.com/user-attachments/files/20869917/SARST2-v2.0.26-Win10%2B.arm64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.arm64.zip">
               .zip
             </a>
           </td>
@@ -215,9 +215,9 @@ https://10lab.ceb.nycu.edu.tw/sarst2
   </tr>
 </table>
 
-## User Manual
+## User manual
 
-| Language (Alphabetical order) | Link         |
+| Language (alphabetical order) | Link         |
 | ------------------- |:------------:|
 | Chinese | [繁体中文](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-Chinese%2CTraditional.pdf)<br>[简体中文](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-Chinese%2CSimplified.pdf) |
 | English             | [English](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-English.pdf) |
@@ -244,7 +244,7 @@ After extraction, you can run the sarst2 program with the following commands:<br
 <table>
   <tr>
     <td>bin</td>
-    <td>64-bit executables for Linux, Windows, and Mac OS.</td>
+    <td>64-bit executables for Linux, Windows, and macOS.</td>
   </tr>
   <tr>
     <td>dbs</td>
@@ -275,7 +275,7 @@ There are three main programs in this software package, as described below,
 
 Running any of the above programs without parameters (or with -h) will display a brief text-based help message for that program.
 
-#### Linux, Mac OS
+#### Linux, macOS
 - ```./sarst2```
 - ```./formatdb```
 - ```./readdb```
@@ -298,7 +298,7 @@ Running any of the above programs without parameters (or with -h) will display a
                ---------------		-------------------
                > one PDB/CIF file	> can be
                                         1. -db + a pre-formatted database
-                                        2. a list of PDB/CIF files
+                                        2. multiple PDB/CIF files
                                         3. folders of PDB/CIF files
                                         4. one PDB/CIF file (pairwise)
 ```
@@ -593,7 +593,7 @@ Enabling -save_disk will round the Cα coordinates to one decimal place to save 
               pre-formatted       FASTA format        1. AA
                                                       2. AAT
                                                       3. SARST
-                                                      4. Four-symbol SSE
+                                                      4. SSE
 ```
 
 #### 6.2	Program options
