@@ -1,0 +1,60 @@
+SARST2
+Structural similarity search Aided by Ramachandran Sequential Transformation,
+version 2
+
+© 2023 Wei-Cheng Lo, Arieh Warshel, Chia-Hua Lo, et al.
+Institute of Bioinformatics and Systems Biology,
+National Yang Ming Chiao Tung University, Hsinchu, Taiwan
+
+Note: Future versions of SARST2 may be released under a different license.
+
+
+===============================================================================
+License for the SARST2 Executable Files, Source Code, and Documentation
+===============================================================================
+
+This license applies to all SARST2 executable binaries, source code, and user
+documentation provided by the authors, regardless of the distribution format.
+
+The SARST2 executable binaries and source code are licensed under the
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+(CC BY-NC-ND 4.0) license.
+
+You are free to use and share the binaries and source code for non-commercial
+purposes, provided that:
+
+- Proper attribution is given (e.g., by citing the associated publication).
+- The binaries or source code are not reverse-engineered, or redistributed in
+  altered form, except as allowed in the Additional Permission section.
+
+For any commercial use or redistribution, please contact the corresponding
+author.
+
+Additional Permission
+
+You are permitted to modify the SARST2 source code for personal, research, or
+academic purposes, provided that:
+
+1. The modified version is not distributed in any form.
+2. The modified version is not used for commercial purposes.
+
+
+===============================================================================
+Disclaimer
+===============================================================================
+
+The SARST2 algorithm and all accompanying materials are provided "as is",
+without any warranties, express or implied, including but not limited to
+warranties of accuracy, completeness, reliability, fitness for a particular
+purpose, or non-infringement.
+
+The developers of SARST2 and their affiliated institutions shall not be held
+liable for any direct, indirect, incidental, special, or consequential
+damages, including but not limited to loss of data, business interruption,
+or loss of profits, arising from the use of SARST2 or any of its components.
+
+By using SARST2, you acknowledge and agree that:
+
+- You are solely responsible for any consequences resulting from its use.
+- The authors and affiliated institutions disclaim all liability for such use.
+
