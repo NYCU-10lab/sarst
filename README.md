@@ -1,4 +1,4 @@
-# SARST2 v2.0.26
+# SARST2 v2.0.30
  Structural similarity search Aided by Ramachandran Sequential Transformation, version 2
 
 <p align="center">
@@ -41,11 +41,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>Linux, x86_64</td>
           <td nowrap>
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.x86_64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Linux.x86_64.tar.gz">
               .tar.gz 
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.x86_64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Linux.x86_64.zip">
               .zip 
             </a>
           </td>
@@ -53,11 +53,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>Linux, arm64</td>
           <td nowrap>
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.arm64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Linux.arm64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Linux.arm64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Linux.arm64.zip">
               .zip
             </a>
           </td>
@@ -65,11 +65,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>macOS, x86_64</td>
           <td nowrap>
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.x86_64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-macOS.x86_64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.x86_64.zip"">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-macOS.x86_64.zip"">
               .zip
             </a>
           </td>
@@ -77,11 +77,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>macOS, arm64</td>
           <td nowrap>
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.arm64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-macOS.arm64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-macOS.arm64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-macOS.arm64.zip">
               .zip
             </a>
           </td>
@@ -89,11 +89,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td nowrap>Windows 10+, x86_64</td>
           <td nowrap>
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.x86_64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Win10+.x86_64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.x86_64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Win10+.x86_64.zip">
               .zip
             </a>
           </td>
@@ -101,11 +101,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
         <tr>
           <td>Windows 10+, arm64</td>
           <td nowrap>
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.arm64.tar.gz">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Win10+.arm64.tar.gz">
               .tar.gz
             </a>
             &nbsp;&nbsp;
-            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.26-Win10+.arm64.zip">
+            <a target="_blank" href="https://10lab.ceb.nycu.edu.tw/sarst2/dat/downloads/prgs/SARST2-v2.0.30-Win10+.arm64.zip">
               .zip
             </a>
           </td>
@@ -219,7 +219,7 @@ https://10lab.ceb.nycu.edu.tw/sarst2
 
 | Language (alphabetical order) | Link         |
 | ------------------- |:------------:|
-| Chinese | [繁体中文](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-Chinese%2CTraditional.pdf)<br>[简体中文](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-Chinese%2CSimplified.pdf) |
+| Chinese | [繁體中文](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-Chinese%2CTraditional.pdf)<br>[简体中文](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-Chinese%2CSimplified.pdf) |
 | English             | [English](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-English.pdf) |
 | French              | [Français](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-French.pdf) |
 | German              | [Deutsch](https://github.com/NYCU-10lab/sarst/blob/main/Manuals/SARST2-UserManual-German.pdf) |
@@ -232,11 +232,11 @@ https://10lab.ceb.nycu.edu.tw/sarst2
 The latest version of the SARST2 program and pre-formatted target databases are available at the URLs listed above.
 After downloading a compressed archive, use tar, gzip, or zip utilities to extract the files, depending on the format of the archive. Once extracted, the SARST2 program files are provided as pre-compiled executable binaries and do not require installation.
 
-For example, if you download the archive SARST2-v2.0.26-Linux.x86_64.tar.gz, you can decompress it under Linux using the following command: <br>
-```tar xfp SARST2-v2.0.26-Linux.x86_64.tar.gz```
+For example, if you download the archive SARST2-v2.0.30-Linux.x86_64.tar.gz, you can decompress it under Linux using the following command: <br>
+```tar xfp SARST2-v2.0.30-Linux.x86_64.tar.gz```
 
 After extraction, you can run the sarst2 program with the following commands:<br>
-```cd SARST2-v2.0.26-Linux.x86_64/bin```<br>
+```cd SARST2-v2.0.30-Linux.x86_64/bin```<br>
 ```chmod +x sarst2```<br>
 ```./sarst2 -h```
 
@@ -247,8 +247,8 @@ After extraction, you can run the sarst2 program with the following commands:<br
     <td>64-bit executables for Linux, Windows, and macOS.</td>
   </tr>
   <tr>
-    <td>dbs</td>
-    <td>Pre-formatted target databases: PDB-2022 and SCOP-2.07.</td>
+    <td>dat</td>
+    <td>Example PDB and SCOP test files.</td>
   </tr>
   <tr>
     <td>doc</td>
@@ -294,13 +294,13 @@ Running any of the above programs without parameters (or with -h) will display a
 ### 4.	Manual: sarst2
 #### 4.1	Usage
 ```
-./sarst2	query structure		subject structure(s)	[Options]
-               ---------------		-------------------
-               > one PDB/CIF file	> can be
-                                        1. -db + a pre-formatted database
-                                        2. multiple PDB/CIF files
-                                        3. folders of PDB/CIF files
-                                        4. one PDB/CIF file (pairwise)
+./sarst2    query structure     subject structure(s)	[Options]
+            ---------------     -------------------
+            > one PDB/CIF file  > can be
+                                1. -db + a pre-formatted database
+                                2. multiple PDB/CIF files
+                                3. folders of PDB/CIF files
+                                4. one PDB/CIF file (pairwise)
 ```
 
 #### 4.2	Program options
@@ -338,7 +338,7 @@ Running any of the above programs without parameters (or with -h) will display a
 <tr>
     <td>-mode</td>
     <td>[int]</td>
-    <td>Searching mode, 1: accurate, 2: balanced, 3: quick, or other values: auto.<br>(default: auto)</td>
+    <td>Search/alignment mode, 1: accurate, 2: balanced, 3: quick,<br>other values: auto (database search) or same as 1: accurate (pairwise alignment).<br>(default: auto for database search; 1 for pairwise alignment)</td>
 </tr>
 <tr>
     <td>-f</td>
@@ -463,7 +463,7 @@ Running any of the above programs without parameters (or with -h) will display a
 ```./sarst2 Qry.pdb -db my_db/my_proteins.db -brief 10 -w 7 -e 0.1```  
 ```./sarst2 Qry.pdb -db my_db/my_proteins.db -brief 10 -d 5.0 -sa F```  
 
-In the above example, the target database is stored in the folder "my_db", and "my_proteins.db" is the file stem of the target database files. See the [**Manual**: **formatdb**] for the actual database file list.
+In the above example, the target database is located in the folder "my_db", and "my_proteins.db" is the file stem of the target database files. See the [**Manual**: **formatdb**] for instructions on preparing your own target database.
 
 #### 4.4	Example usage: one-against-all alignments
 ##### Search the query structure against listed subject structures
@@ -502,7 +502,7 @@ To visualize the superimposed structures, we recommend using RasMol or RasWin (h
 ```./sarst2 Qry.pdb -db my_db/my_proteins.db –html output_folder –jsmol "https://10lab.ceb.nycu.edu.tw/ext/jsmol"``` 
 
 ##### Generate an HTML document with a local JSmol script folder (Windows)
-```./sarst2 Qry.pdb "set1/*.cif" –detail 100 –html output_folder –jsmol "file:///D:/bioinfo/software/jsmol"```  
+```./sarst2 Qry.pdb "set1/*.cif" –detail 100 –html output_folder –jsmol "file:///D:/software/jsmol"```  
 
 Using the "-html output_folder" option, an HTML result document and corresponding superimposed protein structure files will be generated in the specified folder. The 
 "-html" option must be used together with "-jsmol", which specifies the URL or local path of the JSmol package (version 2013). JSmol is an interactive 3D molecular structure viewer that runs in web browsers and supports most major modern browsers.
@@ -517,11 +517,11 @@ Depending on your operating system, browser, or antivirus software, you may need
 #### 5.1	Usage
 ```
 ./formatdb	subject structure(s)	-db database	[Options]
-                --------------------
-                > can be
-                1. multiple PDB/CIF files
-                2. folders containing PDB/CIF files
-                3. a plain text file listing PDB/CIF file paths
+           --------------------
+           > can be
+           1. multiple PDB/CIF files
+           2. folders containing PDB/CIF files
+           3. a plain text file listing PDB/CIF file paths
 ```
 
 #### 5.2	Program options
