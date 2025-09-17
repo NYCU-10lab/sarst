@@ -13,15 +13,15 @@ This software is published along with the following paper and will be frequently
 
 <table>
   <tr>
-    <td><b>Title</b></td>
-    <td>SARST2, a high-throughput protein structure alignment algorithm for searching massive databases</td>
+    <td>Authors</td>
+    <td>Wei-Cheng Lo*, Arieh Warshel, Chia-Hua Lo, Chia Yee Choke, Yan-Jie Li, Shih-Chung Yen, Jyun-Yi Yang, Shih-Wen Weng.</td>
   </tr>
   <tr>
-    <td><b>Authors</b></td>
-    <td>Wei-Cheng Lo*, Arieh Warshel, Chia-Hua Lo, Chia Yee Choke, Yan-Jie Li, Shih-Chung Yen, Jyun-Yi Yang and Shih-Wen Weng</td>
+    <td>Article</td>
+    <td>SARST2 high-throughput and resource-efficient protein structure alignment against massive databases.<br>Nature Communications (2025). <a href="https://doi.org/10.1038/s41467-025-63757-9" target="_blank">https://doi.org/10.1038/s41467-025-63757-9</a></td>
   </tr>
   <tr>
-    <td><b>Institute</b></td>
+    <td>Institute</td>
     <td>Institute of Bioinformatics and Systems Biology, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, Republic of China</td>
   </tr>
 </table>
@@ -323,7 +323,7 @@ Running any of the above programs without parameters (or with -h) will display a
 <tr>
     <td>-t</td>
     <td>[int]</td>
-    <td>Number of threads.<br>It must be ≥ 0; 0 means all processors will be used.<br>(default: 0, all processors)</td>
+    <td>Number of threads.<br>Must be ≥ 0; 0 means all processors will be used.<br>(default: 0, all processors)</td>
 </tr>
 <tr>
     <td>-w</td>
@@ -346,24 +346,24 @@ Running any of the above programs without parameters (or with -h) will display a
     <td>Enable minor filters, 0: off, 1: on, or other values: auto.<br>(default: auto)<br>(always 0, disabled, in a pairwise alignment)</td>
 </tr>
 <tr>
-    <td>-C</td>
-    <td>[float]</td>
-    <td>Conf-score (confidence score) threshold.<br>It must be between 0 and 1; 0 means no threshold is applied.<br>(default: 0.5)<br>(always disabled in a pairwise alignment)</td>
+  <td>-C</td>
+  <td>[float]</td>
+  <td>Conf-score (confidence score) threshold for filtering the final hit list.<br>Range: 0-1; 0 keeps all candidate homologs.<br>(default: 0.125)<br>(always disabled in a pairwise alignment)</td>
 </tr>
 <tr>
-    <td>-pC</td>
-    <td>[float]</td>
-    <td>Cutoff of the final pC-value, i.e., –log2(C).<br>It must be ≥ 0; 0 means no cutoff is applied.<br>(default: 1.0, equivalent to -C = 0.5)<br>(always disabled in a pairwise alignment)</td>
+  <td>-pC</td>
+  <td>[float]</td>
+  <td>Cutoff of the pC-value, i.e., -log2(C), for filtering the final hit list.<br>Must be >= 0; 0 keeps only perfect homologs.<br>(default: 3.0, equivalent to -C 0.125)<br>(always disabled in a pairwise alignment)</td>
 </tr>
 <tr>
-    <td>-e</td>
-    <td>[float]</td>
-    <td>Cutoff of the pC-value, applied to each filter and refinement step.<br>Given the same -e and -pC, -e discards more irrelevant hits.<br>It must be ≥ 0; 0 means no cutoff is applied.<br>(default: 1.0)<br>(always disabled in a pairwise alignment)</td>
+  <td>-e</td>
+  <td>[float]</td>
+  <td>Cutoff of -log2(Conf-score) applied in each filter and refinement step.<br>A smaller -e value discards more irrelevant hits.<br>Must be >= 0; 0 retrieves only perfect alignments.<br>This parameter significantly affects search results and requires careful tuning.<br>(default: 1.0)<br>(always disabled in a pairwise alignment)</td>
 </tr>
 <tr>
     <td>-tmcut</td>
     <td>[float]</td>
-    <td>TM-score cutoff.<br>It must be ≥ 0; 0 means no cutoff is applied.<br>A TM-score ≥ 0.7 by SARST2 might imply family-level homology.<br>(default: 0.15)<br>(always disabled in a pairwise alignment)
+    <td>TM-score cutoff.<br>Must be ≥ 0; 0 means no cutoff is applied.<br>A TM-score ≥ 0.7 by SARST2 might imply family-level homology.<br>(default: 0.15)<br>(always disabled in a pairwise alignment)
 </td>
 </tr>
 <tr>
@@ -539,7 +539,7 @@ Depending on your operating system, browser, or antivirus software, you may need
 <tr>
     <td>-t</td>
     <td>[int]</td>
-    <td>Number of threads.<br>It must be ≥ 0; 0 means all processors will be used.<br>(default: 0, all processors)<br></td>
+    <td>Number of threads.<br>Must be ≥ 0; 0 means all processors will be used.<br>(default: 0, all processors)<br></td>
 </tr>
 <tr>
     <td>-split</td>
